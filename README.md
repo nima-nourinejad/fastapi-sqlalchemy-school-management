@@ -1,5 +1,6 @@
 # FastAPI SQLAlchemy School Management System
 
+
 ## Overview
 Welcome to the FastAPI SQLAlchemy School Management System! This project provides a robust API for managing school classes, built with FastAPI and SQLAlchemy.
 
